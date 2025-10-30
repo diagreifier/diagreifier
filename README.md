@@ -53,7 +53,7 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Generated code** may require manual review before production use.
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
-📧 **Contact**: [rubaindeveloper@gmail.com](mailto:rubaindeveloper@gmail.com)  
+📧 **Contact**: [diagreifier@proton.me](mailto:diagreifier@proton.me)  
 © 2025 diagReifier — Developed by Rubain
 
 ---
