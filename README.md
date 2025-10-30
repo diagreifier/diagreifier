@@ -3,15 +3,15 @@
 > **Project Catalyst Assisted by AI-Cloud (PCA-AIC)**  
 > *When your code speaks every language.*
 
-DiagReifier is a NEW Desktop Application that empowers Mobile Developers by Converting Code Intelligently between major Frameworks — **under AI assistance**.  
+diagReifier is a NEW Desktop Application that empowers Mobile Developers by Converting Code Intelligently between major Frameworks — **under AI assistance**.  
 It doesn’t replace developers; it **accelerates** them.
 
-![DiagReifier Dashboard](dashboard.png)
+![diagReifier Dashboard](dashboard.png)
 
 ---
 
 ## 🔧 Supported Frameworks
-DiagReifier currently supports conversion between:
+diagReifier currently supports conversion between:
 - Android (Java / Kotlin)
 - iOS (Swift / Objective-C)
 - Flutter (Dart)
@@ -30,7 +30,7 @@ DiagReifier currently supports conversion between:
 ---
 
 ## 💻 Download
-DiagReifier is available for **Windows** and **macOS**.
+diagReifier is available for **Windows** and **macOS**.
 
 📥 **[Download the latest version](https://github.com/rubain/diagreifier/releases/latest)**
 
@@ -39,7 +39,7 @@ DiagReifier is available for **Windows** and **macOS**.
 ---
 
 ## 💳 Subscription Plans
-Access to DiagReifier requires a plan:
+Access to diagReifier requires a plan:
 - **Junior** – For students & hobbyists  
 - **Senior** – For professional developers  
 - **Expert** – For teams & enterprise
@@ -54,8 +54,8 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
 📧 **Contact**: [rubaindeveloper@gmail.com](mailto:rubaindeveloper@gmail.com)  
-© 2025 DiagReifier — Developed by Rubain
+© 2025 diagReifier — Developed by Rubain
 
 ---
 
-> DiagReifier is a catalyst — not a replacement. Code smarter, not harder.
+> diagReifier is a catalyst — not a replacement. Code smarter, not harder.
