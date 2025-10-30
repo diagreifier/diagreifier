@@ -1,4 +1,4 @@
-# DiagReifier
+# diagReifier
 
 > **Project Catalyst Assisted by AI-Cloud (PCA-AIC)**  
 > *When your code speaks every language.*
