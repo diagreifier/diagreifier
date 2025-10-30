@@ -16,7 +16,7 @@ diagReifier currently supports conversion between:
 - iOS (Swift / Objective-C)
 - Flutter (Dart)
 - React Native (JavaScript / TypeScript)
-- Harmony OS
+- Harmony OS (C, C++)
 
 ---
 
@@ -54,7 +54,7 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
 📧 **Contact**: [diagreifier@proton.me](mailto:diagreifier@proton.me)  
-© 2025 diagReifier — Developed by Rubain
+© 2025 diagReifier — Author by Rubain
 
 ---
 
