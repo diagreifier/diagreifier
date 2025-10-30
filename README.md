@@ -3,7 +3,7 @@
 > **Project Catalyst Assisted by AI-Cloud (PCA-AIC)**  
 > *When your code speaks every language.*
 
-DiagReifier is a desktop application that empowers mobile developers by converting code intelligently between major frameworks — **under AI assistance**.  
+DiagReifier is a NEW Desktop Application that empowers Mobile Developers by Converting Code Intelligently between major Frameworks — **under AI assistance**.  
 It doesn’t replace developers; it **accelerates** them.
 
 ![DiagReifier Dashboard](dashboard.png)
