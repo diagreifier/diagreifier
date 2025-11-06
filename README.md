@@ -6,7 +6,7 @@
 diagReifier is a NEW Desktop Application that empowers Mobile Developers by Converting Code Intelligently between major Frameworks — **under AI assistance**.  
 It doesn’t replace developers; it **accelerates** them.
 
-![diagReifier Dashboard](images/dashboard.png)
+![diagReifier Dashboard](diagreifier/home.png)
 
 ---
 
