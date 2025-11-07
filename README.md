@@ -32,7 +32,7 @@ diagReifier currently supports conversion between:
 ## 💻 Download
 diagReifier is available for **Windows** and **macOS**.
 
-📥 **[Download the latest version](https://github.com/rubain/diagreifier/releases/latest)**
+📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0-beta.1)**
 
 > ⚠️ An active subscription is required to unlock full features after installation.
 
@@ -54,7 +54,7 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
 📧 **Contact**: [diagreifier@proton.me](mailto:diagreifier@proton.me)  
-© 2025 diagReifier — Author by Rubain
+© 2025 diagReifier — Author by Kouevi Folly Rubain
 
 ---
 
