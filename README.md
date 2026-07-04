@@ -4,19 +4,6 @@
 > *When your code speaks every language.*
 
 diagReifier is a Desktop Application that empowers Mobile Developers by converting code intelligently between major, generate code and Devtools — **under AI assistance**.  
-It doesn’t replace developers; it **accelerates** them.
-
-![diagReifier Dashboard](diagreifier/home.png)
-
----
-
-## 🚀 Advantages
-
-1. **CONVERSION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
-2. **GENERATION** of 'new projects' and 'UI' (project scaffolding from prompt).
-3. **DEVTOOLS** (Developer Tools) explain, debugging, error fixing, function generation, intelligent assistance thoughout the project.
-
----
 
 ## 💻 Download
 
@@ -24,6 +11,14 @@ diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
 
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
+
+![diagReifier Dashboard](diagreifier/home.png)
+
+## 👑 Advantages 🚀
+
+1. **CONVERSION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
+2. **GENERATION** of 'new projects' and 'UI' (project scaffolding from prompt).
+3. **DEVTOOLS** (Developer Tools) explain, debugging, error fixing, function generation, intelligent assistance thoughout the project.
 
 ---
 
