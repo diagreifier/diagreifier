@@ -3,7 +3,7 @@
 > **Project Catalyst Assisted by AI-Cloud (PCA-AIC)**  
 > *When your code speaks every language.*
 
-**diagReifier** is a desktop application (Windows, Linux/macOS(soon)) specialized in **AI-assisted** code **conversion**, **generation** and **devtools** between major mobile development frameworks.  
+**diagReifier** is a desktop application (Windows, Linux/macOS soon) and **Expert #1 in Mobile Development Tool**. Choose your platform below. All installers include the full feature set — an active subscription is required after installation.
 
 ## 💻 Download
 
@@ -16,7 +16,7 @@ diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
 
 ## 👑 Advantages 🚀
 
-1. **CONVERSION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
+1. **MIGRATION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
 2. **GENERATION** of 'new projects' and 'UI' (project scaffolding from prompt).
 3. **DEVTOOLS** (Developer Tools) explain, debugging, error fixing, function generation, intelligent assistance thoughout the project.
 
@@ -24,7 +24,7 @@ diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
 
 ## 🚀 Originality & Pioneer Vision
 
-diagReifier is not a simple code converter; it is the first **contextual and intelligent translation engine** for mobile ecosystems. Its radical originality lies in its ability to understand the *intention* behind the code, not just its syntax.
+diagReifier is not a simple **mobile development tool**; it is the first **contextual and intelligent translation engine** for mobile ecosystems. Its radical originality lies in its ability to understand the *intention* behind the code, not just its syntax.
 
 - **Pioneer of “Code Aware”** — unlike basic tools, diagReifier analyses architecture, dependencies and patterns to produce native-idiomatic code, not an awkward copy. It does not convert lines; it migrates concepts.
 - **Dual intelligent core:**
@@ -41,7 +41,7 @@ diagReifier stands out with a superior, uncompromising technological approach:
   - Best-in-class AI layers for pure code conversion, leveraging the most advanced LLMs.
   - **Business rules layer** — a unique, constantly enriched internal knowledge base that maps framework equivalents (Retrofit → Alamofire, Room → Core Data) and corrects LLM idiosyncrasies. This layer guarantees reliability.
 - **“Wow” experience:**
-  - Drag & drop of full projects.
+  - Select or Drag & drop of file or full projects.
   - **Detailed conversion report** — a clear overview listing converted files, mapped dependencies, watchpoints and TODOs for the developer.
   - **Ready-to-compile output** — download a perfectly structured Android Studio or Xcode project, with Podfile or build.gradle already configured.
 
@@ -94,7 +94,7 @@ diagReifier currently supports conversion between:
 ## 🛠 System Requirements
 
 ### Minimum Requirements
-- **OS**: Windows 10/11 (32-bit or 64-bit)
+- **OS**: Windows 7/10/11 (32-bit or 64-bit)
 - **RAM**: 2GB minimum, 4GB recommended
 - **Storage**: 100MB available space
 - **Display**: 1280x720 resolution
@@ -133,7 +133,7 @@ diagReifier currently supports conversion between:
 
 diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
 
-📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0-beta.1)**
+📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
 > ⚠️ An active subscription is required to unlock full features after installation.
 
