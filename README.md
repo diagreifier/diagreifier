@@ -3,7 +3,7 @@
 > **Project Catalyst Assisted by AI-Cloud (PCA-AIC)**  
 > *When your code speaks every language.*
 
-**diagReifier** is a desktop application (Windows, Linux/macOS soon) and **Expert #1 in Mobile Development Tool**. Choose your platform below. All installers include the full feature set — an active subscription is required after installation.
+**diagReifier** is a desktop application (Windows, Linux/macOS soon) and **Expert #1 in Mobile Development Tool**. Code **migration**, **generation** and **DevTools**.
 
 ## 💻 Download
 
