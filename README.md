@@ -1,7 +1,7 @@
 # diagReifier
 
-> **Project Catalyst Assisted by AI-Cloud (PCA-AIC)**  
-> *When your code speaks every language.*
+> **AI Engineering Platform for Mobile Applications**  
+> *1- BUILD. 2- MIGRATE. 3- DEBUG*
 
 **diagReifier** is a desktop application (Windows, Linux/macOS soon) and **Expert #1 in Mobile Development Tool**. Code **migration**, **generation** and **DevTools**.
 
@@ -12,12 +12,12 @@ diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
 
-![diagReifier Dashboard](diagreifier/home.png)
+![diagReifier Dashboard](images/home.png)
 
 ## 👑 Advantages 🚀
 
-1. **MIGRATION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
-2. **GENERATION** of 'new projects' and 'UI' (project scaffolding from prompt).
+1. **GENERATION** of 'new projects' and 'UI' (project scaffolding from prompt).
+2. **MIGRATION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
 3. **DEVTOOLS** (Developer Tools) explain, debugging, error fixing, function generation, intelligent assistance thoughout the project.
 
 ---
@@ -42,7 +42,7 @@ diagReifier stands out with a superior, uncompromising technological approach:
   - **Business rules layer** — a unique, constantly enriched internal knowledge base that maps framework equivalents (Retrofit → Alamofire, Room → Core Data) and corrects LLM idiosyncrasies. This layer guarantees reliability.
 - **“Wow” experience:**
   - Select or Drag & drop of file or full projects.
-  - **Detailed conversion report** — a clear overview listing converted files, mapped dependencies, watchpoints and TODOs for the developer.
+  - **Detailed migration report** — a clear overview listing converted files, mapped dependencies, watchpoints and TODOs for the developer.
   - **Ready-to-compile output** — download a perfectly structured Android Studio or Xcode project, with Podfile or build.gradle already configured.
 
 ---
@@ -157,7 +157,7 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
 📧 **Contact**: [diagreifier@proton.me](mailto:diagreifier@proton.me)  
-© 2026 diagReifier — Author | Rubain K.
+© 2026 diagReifier — Author | Rubain
 
 ---
 
