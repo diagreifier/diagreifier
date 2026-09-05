@@ -3,11 +3,11 @@
 > **AI Engineering Platform for Mobile Applications**  
 > *1- BUILD. 2- MIGRATE. 3- DEBUG*
 
-**diagReifier** is a AI Engineering Platform for Mobile Applications (Android, iOS, Flutter, React Native & HarmonyOS) and **Expert #1 in Mobile Development Tool**.
+**diagReifier** is a **AI Engineering** Platform for Mobile Applications (Android, iOS, Flutter, React Native & HarmonyOS) and **Expert #1 in Mobile Development Tool**.
 
 ## 💻 Download
 
-diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
+diagReifier is available for **Windows**, **Linux (SOON)** and **macOS (SOON)**.
 
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
