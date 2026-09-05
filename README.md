@@ -3,7 +3,7 @@
 > **AI Engineering Platform for Mobile Applications**  
 > *1- BUILD. 2- MIGRATE. 3- DEBUG*
 
-**diagReifier** is a desktop application (Windows, Linux/macOS soon) and **Expert #1 in Mobile Development Tool**. Code **migration**, **generation** and **DevTools**.
+**diagReifier** is a AI Engineering Platform for Mobile Applications (Android, iOS, Flutter, React Native and HarmonyOS) and **Expert #1 in Mobile Development Tool**.
 
 ## 💻 Download
 
