@@ -18,7 +18,7 @@ diagReifier is available for **Windows**, **Linux (SOON)** and **macOS (SOON)**.
 
 ## 👑 Advantages 🚀
 
-1. **GENERATION** of 'new projects' and 'UI' (project scaffolding from prompt).
+1. **BUILD** of 'new projects' and 'UI' (project scaffolding from prompt).
 2. **MIGRATION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
 3. **DEVTOOLS** (Developer Tools) explain, debugging, error fixing, function generation, intelligent assistance thoughout the project.
 
@@ -30,7 +30,7 @@ diagReifier is not a simple **mobile development tool**; it is the first **conte
 
 - **Pioneer of “Code Aware”** — unlike basic tools, diagReifier analyses architecture, dependencies and patterns to produce native-idiomatic code, not an awkward copy. It does not convert lines; it migrates concepts.
 - **Dual intelligent core:**
-  - **Business Logic Engine** — pure, reliable conversion of algorithms (Kotlin↔Swift, Dart→Java, etc.).
+  - **Business Logic Engine** — pure, reliable migration of algorithms (Kotlin↔Swift, Dart→Java, etc.).
   - **UI Intention Engine** — unique on the market, it interprets an Android XML layout and transcribes it into SwiftUI / Jetpack Compose, respecting each platform’s design guidelines.
 
 ---
@@ -40,7 +40,7 @@ diagReifier is not a simple **mobile development tool**; it is the first **conte
 diagReifier stands out with a superior, uncompromising technological approach:
 
 - **Hybrid & custom AI:**
-  - Best-in-class AI layers for pure code conversion, leveraging the most advanced LLMs.
+  - Best-in-class AI layers for pure code migration, leveraging the most advanced LLMs.
   - **Business rules layer** — a unique, constantly enriched internal knowledge base that maps framework equivalents (Retrofit → Alamofire, Room → Core Data) and corrects LLM idiosyncrasies. This layer guarantees reliability.
 - **“Wow” experience:**
   - Select or Drag & drop of file or full projects.
@@ -63,7 +63,7 @@ diagReifier has no direct competitor; it creates and dominates its own category.
 
 | Feature | Existing solutions *(Android Studio, etc.)* | diagReifier *(Leader)* |
 |---------|---------------------------------------------|------------------------|
-| **Scope** | 1:1 Java↔Kotlin conversion | Multi-language (Kotlin, Swift, Java, Dart, JS, Objective-C) and multi-layer (UI, Logic, Resources) |
+| **Scope** | 1:1 Java↔Kotlin migration | Multi-language (Kotlin, Swift, Java, Dart, JS, Objective-C) and multi-layer (UI, Logic, Resources) |
 | **Intelligence** | Syntactic, word-for-word | Contextual and architectural. Understands the *why* to better translate the *how*. |
 | **Result** | Often verbose, non-idiomatic code | Clean, modern, production-ready code |
 | **Integration** | Confined to an IDE | Standalone desktop & web app, fits into any workflow |
@@ -74,7 +74,7 @@ diagReifier has no direct competitor; it creates and dominates its own category.
 
 ## 🔧 Supported Frameworks
 
-diagReifier currently supports conversion between:
+diagReifier currently supports migration between:
 - Android (Java / Kotlin)
 - iOS (Swift / Objective-C)
 - Flutter (Dart)
@@ -88,7 +88,7 @@ diagReifier currently supports conversion between:
 1. **Upload** your file or project folder  
 2. **Select** source and target platform  
 3. **AI analyzes** context and architecture  
-4. **Download** a ready-to-refine ZIP with full conversion  
+4. **Download** a ready-to-refine ZIP with full migration  
 5. **Refine & deploy** with confidence
 
 ---
