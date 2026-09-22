@@ -1,9 +1,11 @@
-# diagReifier
+# diagReifier - AI Engineering Platform for Mobile Development
 
-> **AI Engineering Platform for Mobile Applications Development**  
+> **The Intelligent Bridge for Mobile Development**  
 > *👉 Expert #1 in Mobile Development Tools*
 
-**DIAGREIFIER** is an **AI Engineering** platform for **building**, **migrating** and **debugging** mobile applications. It is not merely a mobile development tool, but a revolutionary **desktop platform** powered by specialized AI. Captures the semantics, architecture, and context of your project to generate code of unmatched precision and quality.
+**DIAGREIFIER** is an **AI Engineering** platform for **building**, **migrating** and **debugging** mobile applications.   
+It is not merely a mobile development tool, but a revolutionary **desktop platform** powered by specialized AI.   
+Captures the semantics, architecture, and context of your project to generate code of unmatched precision and quality.
 
 ## 💻 Download
 > **diagReifier v1.0.0**  
@@ -14,11 +16,11 @@ diagReifier is available for **Windows**, **Linux (SOON)** and **macOS (SOON)**.
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
 
-![diagReifier Dashboard](images/home.png)
+![diagReifier Dashboard](images/home01.png)
 
 ## 👑 Advantages 🚀
 
-1. **BUILD** of 'new projects' and 'UI' (project scaffolding from prompt).
+1. **CREATION** of 'new projects' and 'UI' (project scaffolding from prompt).
 2. **MIGRATION** of complete code/projects between Android, iOS, Flutter, React Native and HarmonyOS. 
 3. **DEVTOOLS** (Developer Tools) explain, debugging, error fixing, function generation, intelligent assistance thoughout the project.
 
@@ -110,13 +112,13 @@ diagReifier currently supports migration between:
 ## 🔧 Installation Guide
 
 ### NSI Installer (Recommended) / 'Personal use'
-1. Download `diagReifier_windows_1.0.0_x64-setup.exe`
+1. Download `diagReifier_1.0.0_x64-setup.exe`
 2. Run the installer
 3. Follow the setup wizard
 4. Launch diagReifier from Start Menu
 
 ### MSI Installer (Enterprise) / 'Contact us before (custom)'
-1. Download `diagReifier_windows_1.0.0_x64_en-US.msi`
+1. Download `diagReifier_1.0.0_x64_en-US.msi`
 2. Double-click to install
 
 ## 🔒 Security Features
@@ -159,7 +161,7 @@ Plans are billed monthly or annually via **Stripe**. Manage your subscription di
 - **Intellectual property**: All rights reserved. Reverse engineering or redistribution is prohibited.
 
 📧 **Contact**: [diagreifier@proton.me](mailto:diagreifier@proton.me)  
-© 2026 diagReifier — Author | Rubain
+© 2026 diagReifier | Author - Rubain Folly Kouevi
 
 ---
 
