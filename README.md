@@ -14,7 +14,7 @@ DIAGREIFIER is available for **Windows**, **Linux (SOON)** and **macOS (SOON)**.
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
 
-![diagReifier Dashboard](images/home01.png)
+![diagReifier Dashboard](images/home02.png)
 
 ## 👑 Advantages 🚀
 
