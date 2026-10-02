@@ -1,4 +1,4 @@
-# diagReifier - AI Engineering Platform for Mobile Development
+# diagReifier — AI Engineering Platform for Mobile Development
 
 > **The Intelligent Bridge for Mobile Development**  
 > *👉 Expert #1 in Mobile Development Tools*
