@@ -3,9 +3,7 @@
 > **The Intelligent Bridge for Mobile Development**  
 > *👉 Expert #1 in Mobile Development Tools*
 
-**DIAGREIFIER** is an **AI Engineering** platform for **building**, **migrating** and **debugging** mobile applications.   
-It is not merely a mobile development tool, but a revolutionary **desktop platform** powered by specialized AI.   
-Captures the semantics, architecture, and context of your project to generate code of unmatched precision and quality.
+**DIAGREIFIER** is an **AI Engineering** platform for **building**, **migrating** and **debugging** mobile applications. It is not merely a mobile development tool, but a revolutionary **desktop platform** powered by specialized AI. Captures the semantics, architecture, and context of your project to generate code of unmatched precision and quality.
 
 ## 💻 Download
 > **diagReifier v1.0.0**  
