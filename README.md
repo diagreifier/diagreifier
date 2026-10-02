@@ -7,9 +7,9 @@
 
 ## 💻 Download
 > **diagReifier v1.0.0**  
-> *👨‍💻 1- BUILD. 2- MIGRATE. 3- DEBUG*
+> *👨‍💻 BUILD • MIGRATE • DEBUG*
 
-diagReifier is available for **Windows**, **Linux (SOON)** and **macOS (SOON)**.
+DIAGREIFIER is available for **Windows**, **Linux (SOON)** and **macOS (SOON)**.
 
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
@@ -138,17 +138,6 @@ diagReifier is available for **Windows**, **macOS (SOON)** and **macOS (SOON)**.
 📥 **[Download the latest version](https://github.com/diagreifier/diagreifier/releases/tag/1.0.0)**
 
 > ⚠️ An active subscription is required to unlock full features after installation.
-
----
-
-## 💳 Subscription Plans
-
-Access to diagReifier requires a plan:
-- **Junior** – For students & hobbyists  
-- **Senior** – For professional developers  
-- **Expert** – For teams & enterprise
-
-Plans are billed monthly or annually via **Stripe**. Manage your subscription directly in the app.
 
 ---
 
